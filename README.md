@@ -3,7 +3,7 @@ Aetsoft is your end-to-end [blockchain development](https://aetsoft.net/services
 We build public and private blockchain protocols from scratch. You also get access to our legal and business partner network to launch in the US, EU, GCC, and globally.
 
 <!--
-**aetsoft/-aetsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aetsoft/aetsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
